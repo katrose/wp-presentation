@@ -9,16 +9,16 @@
 - Started with a basic wireframe but then we chose a theme that didn’t follow our wireframe structure so we just went with that
 - Main design goals were still followed 
 
-## ACT 2: How we chose the content
+## ACT 2: How we chose the content (Lord)
 - Original website had too much content
 - We chose the most important things out of top level menu, that the user/student might be looking for. 
 - Pitch: With a real client, would have to go through site architecture and talk about what to keep
 
-## ACT 3: Wordpress features
+## ACT 3: Wordpress features (Lord)
 - Theme: Education X
 - Features: Plugin to add courses, events
 
-## Epilogue
+## Epilogue (Lord)
 - Restate the goal/call to action
 
 
