@@ -7,7 +7,8 @@
 
 ## ACT 1: Wireframing (Julia)
 - Started with a basic wireframe but then we chose a theme that didn’t follow our wireframe structure so we just went with that
-- Main design goals were still followed 
+- How did we look for themes? -> Searched for themes that would be appropriate for an educational institution
+- Main design goals were still followed even though original wireframe design wasn't 100% used
 
 ## ACT 2: How we chose the content (Lord)
 - Original website had too much content
@@ -20,5 +21,3 @@
 
 ## Epilogue (Lord)
 - Restate the goal/call to action
-
-
