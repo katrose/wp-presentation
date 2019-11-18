@@ -1,11 +1,11 @@
 # Presentation Notes
 
-## Intro - Julia
+## Intro (Julia)
 - Why we chose this design
 - Goals of the site
 - Modernize the website - website is your biggest marketing tool, so if you don’t have a modern website it won’t attract students
 
-## ACT 1: Wireframing
+## ACT 1: Wireframing (Julia)
 - Started with a basic wireframe but then we chose a theme that didn’t follow our wireframe structure so we just went with that
 - Main design goals were still followed 
 
