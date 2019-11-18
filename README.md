@@ -1,2 +1,24 @@
-# wp-presentation
-Assignment 2 Presentation
+# Presentation Notes
+
+## Intro - Julia
+Why we chose this design
+Goals of the site
+Modernize the website - website is your biggest marketing tool, so if you don’t have a modern website it won’t attract students
+
+## ACT 1: Wireframing
+Started with a basic wireframe but then we chose a theme that didn’t follow our wireframe structure so we just went with that
+Main design goals were still followed 
+
+## ACT 2: How we chose the content
+Original website had too much content
+We chose the most important things out of top level menu, that the user/student might be looking for. 
+Pitch: With a real client, would have to go through site architecture and talk about what to keep
+
+## ACT 3: Wordpress features
+Theme: Education X
+Features: Plugin to add courses, events
+
+## Epilogue
+Restate the goal/call to action
+
+
